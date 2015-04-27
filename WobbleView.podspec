@@ -7,5 +7,5 @@ Pod::Spec.new do |s|
   s.author       = { "Wojciech Lukaszuk" => "wojciech.lukaszuk@infullmobile.com" }
   s.source       = { :git => "https://github.com/inFullMobile/WobbleView.git", :tag => "1.0.1" }
   s.source_files  = "Classes", "Classes/**/*.{swift}"
-  s.ios.deployment_target = "8.0"
+  s.ios.deployment_target = "7.0"
 end
